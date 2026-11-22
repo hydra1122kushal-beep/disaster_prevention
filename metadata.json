@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Relief",
+  "description": "Disaster preparedness, watershed forecasting, and equitable last-mile essential supply coordination with an interactive 3D flood basin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
